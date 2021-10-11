@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manans791
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning javascript and its frameworks
-- 💞️ I’m looking to collaborate on a full stack web development project
+- 👀 I’m interested in web development and data science
+- 🌱 I’m currently learning javascript and its frameworks and python and its libraries
+- 💞️ I’m looking to collaborate on a full stack web development project and data analysis taska
 - 📫 How to reach me maie at manans791@gmail.com
 
 <!---
